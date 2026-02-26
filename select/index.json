@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Murder On The Dancefloor",
+  "base_artist": "Sophie Ellis-Bextor",
+  "createdAt": "2026-02-26T16:11:34.916616Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MURDER ON THE DANCEFLOOR",
+      "artist": "DAEGHO",
+      "has_synced": true,
+      "path": "select/01_MURDER_ON_THE_DANCEFLOOR_DAEGHO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MURDER ON THE DANCEFLOOR",
+      "artist": "DAEGHO • NGXT",
+      "has_synced": true,
+      "path": "select/02_MURDER_ON_THE_DANCEFLOOR_DAEGHO_•_NGXT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Murder on the Dancefloor",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/03_Murder_on_the_Dancefloor_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Murder on the dancefloor",
+      "artist": "Dafina Zeqiri",
+      "has_synced": true,
+      "path": "select/04_Murder_on_the_dancefloor_Dafina_Zeqiri.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Murder On The Dancefloor",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/05_Murder_On_The_Dancefloor_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Murder on the Dancefloor",
+      "artist": "Die Mannequin",
+      "has_synced": false,
+      "path": "select/06_Murder_on_the_Dancefloor_Die_Mannequin.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Murder On The Dancefloor",
+      "artist": "9mice",
+      "has_synced": false,
+      "path": "select/07_Murder_On_The_Dancefloor_9mice.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Murder on the Dancefloor",
+      "artist": "Sophie Ellis Bextor",
+      "has_synced": true,
+      "path": "select/08_Murder_on_the_Dancefloor_Sophie_Ellis_Bextor.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Murder on the Dancefloor",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/09_Murder_on_the_Dancefloor_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Murder on the Dancefloor",
+      "artist": "Sophie Ellis‐Bextor",
+      "has_synced": true,
+      "path": "select/10_Murder_on_the_Dancefloor_Sophie_Ellis‐Bextor.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Murder on the Dancefloor",
+      "artist": "Sløtface",
+      "has_synced": false,
+      "path": "select/11_Murder_on_the_Dancefloor_Sløtface.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Murder On The Dancefloor",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/12_Murder_On_The_Dancefloor_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Murder On The Dancefloor",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/13_Murder_On_The_Dancefloor_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "MURDER ON THE DANCEFLOOR",
+      "artist": "Daegho",
+      "has_synced": true,
+      "path": "select/14_MURDER_ON_THE_DANCEFLOOR_Daegho.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "murder on the dancefloor",
+      "artist": "sophie ellisbextor",
+      "has_synced": true,
+      "path": "select/15_murder_on_the_dancefloor_sophie_ellisbextor.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Murder On The Dancefloor",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": false,
+      "path": "select/pl_01_Murder_On_The_Dancefloor_Sophie_Ellis-Bextor.txt"
+    }
+  ]
+}
